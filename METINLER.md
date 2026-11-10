@@ -1,6 +1,8 @@
 # Vanoksia Reels — video metinleri
 
-Her video 1080×1920, 30 fps, seslendirme ElevenLabs "Derin" sesi. İlk 3 sn kanca (çapa). Kaynak: `src/videos/`, seslendirme metinleri `src/vo/<Id>.json`.
+Her video 1080×1920, 30 fps, seslendirme ElevenLabs "Derin" sesi. İlk 3 sn kanca (çapa). Kaynak: `src/videos/`, seslendirme metinleri `src/vo/<Id>.json` (TTS için kısaltmalar okunuşuyla yazılır: "Te Ye Te" vb.; burada okunaklı hâli var). Instagram kapak görselleri `kapaklar/<Id>.jpg`.
+
+**Sınav takvimi:** TYT-AYT 21-22 Kasım, 5-6 Aralık, 19-20 Aralık (Cumartesi TYT, Pazar AYT) · LGS 28 Kasım, 12 Aralık, 26 Aralık (Cumartesi). Her tür 2 haftada bir, dönüşümlü → her hafta bir deneme. Katılım sınav paketiyle. Takvim sabiti: `src/widgets/sinav.tsx` → `TAKVIM`.
 
 | Id | Konu | Süre | Kanca | Dosya |
 |---|---|---|---|---|
@@ -21,6 +23,15 @@ Her video 1080×1920, 30 fps, seslendirme ElevenLabs "Derin" sesi. İlk 3 sn kan
 | Ogrenci8 | Özel ders talebi | 15,7 sn | Soru | [videolar/ogrenci/Ogrenci8.mp4](videolar/ogrenci/Ogrenci8.mp4) |
 | Ogrenci9 | Canlı ders | 18,4 sn | Sayaç | [videolar/ogrenci/Ogrenci9.mp4](videolar/ogrenci/Ogrenci9.mp4) |
 | Ogrenci10 | Bir öğrencinin haftası | 22,7 sn | Üstü çizili → yeni | [videolar/ogrenci/Ogrenci10.mp4](videolar/ogrenci/Ogrenci10.mp4) |
+| Sinav1 | Her hafta bir deneme (genel takvim) | 19,7 sn | Çarpan başlık | [videolar/sinav/Sinav1.mp4](videolar/sinav/Sinav1.mp4) |
+| Sinav2 | TYT-AYT 21-22 Kasım | 21,8 sn | Sayaç | [videolar/sinav/Sinav2.mp4](videolar/sinav/Sinav2.mp4) |
+| Sinav3 | LGS 28 Kasım | 20,3 sn | Soru | [videolar/sinav/Sinav3.mp4](videolar/sinav/Sinav3.mp4) |
+| Sinav4 | Sınav paketi | 21,9 sn | Üstü çizili → yeni | [videolar/sinav/Sinav4.mp4](videolar/sinav/Sinav4.mp4) |
+| Sinav6 | TYT-AYT 5-6 Aralık | 20,2 sn | Bölünmüş kart | [videolar/sinav/Sinav6.mp4](videolar/sinav/Sinav6.mp4) |
+| Sinav7 | LGS 12 Aralık | 16,2 sn | Damga | [videolar/sinav/Sinav7.mp4](videolar/sinav/Sinav7.mp4) |
+| Sinav8 | TYT-AYT 19-20 Aralık | 17,7 sn | Üstü çizili → yeni | [videolar/sinav/Sinav8.mp4](videolar/sinav/Sinav8.mp4) |
+| Sinav9 | LGS 26 Aralık | 14,7 sn | Soru | [videolar/sinav/Sinav9.mp4](videolar/sinav/Sinav9.mp4) |
+| Sinav10 | Aralık deneme takvimi | 24,4 sn | Ay ızgarası | [videolar/sinav/Sinav10.mp4](videolar/sinav/Sinav10.mp4) |
 | Marka1 | Eğitimde mega dönüşüm (marka manifestosu) | 25,0 sn | Çarpan başlık | [videolar/ek/Marka1.mp4](videolar/ek/Marka1.mp4) |
 | Ogrenci6 | Seviye tespiti | 20,6 sn | Soru | [videolar/ek/Ogrenci6.mp4](videolar/ek/Ogrenci6.mp4) |
 | Ogrenci7 | İlk 3 gün her şey açık | 24,8 sn | Sayaç | [videolar/ek/Ogrenci7.mp4](videolar/ek/Ogrenci7.mp4) |
@@ -233,3 +244,78 @@ Her video 1080×1920, 30 fps, seslendirme ElevenLabs "Derin" sesi. İlk 3 sn kan
 | Cmt | Deneme + analiz | Cumartesi: deneme ve analiz. |
 | Paz | Soru Kampı'nda zirve | Pazar: arkadaşlarınla Soru Kampı. |
 | CTA | Senin haftan bugün başlasın | Senin haftan, Vanoksia'da. |
+
+## Sinav1 — Her hafta bir deneme (genel takvim)
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | KASIM – ARALIK DENEMELERİ · HER HAFTA / BİR / DENEME. | Her hafta... bir deneme. |
+| 1 | Deneme günlerin hazır — Kasım→Aralık takvimi, 21 Kasım başlıyor | Yirmi bir Kasım'da başlıyor. Kasım'dan Aralık'a, deneme günlerin takvimde hazır. |
+| 2 | İki tür, dönüşümlü — TYT-AYT / LGS 2 haftada bir = HER HAFTA DENEME | TYT, AYT ve LGS, iki haftada bir, dönüşümlü. Yani her hafta bir deneme. |
+| CTA | Her hafta bir deneme · Sınav Paketini Al · Paketi al, tüm denemelere katıl | Sınav paketini al, tüm denemelere katıl. |
+
+## Sinav2 — TYT-AYT 21-22 Kasım
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | TYT • AYT DENEMESİ · 21-22 KASIM | Yirmi bir, yirmi iki Kasım! |
+| 1 | İki gün, iki deneme — Cumartesi 21 Kasım TYT · Pazar 22 Kasım AYT · Gerçek sınav provası | Cumartesi TYT, Pazar AYT. Gerçek sınav provası, hafta sonu seni bekliyor. |
+| 2 | Soru soru analiz — sıralama (temsilî) | Sonra her soruyu tek tek analiz et, sıralamanı gör. |
+| 3 | Sıradaki: 5-6 Aralık · Ardından 19-20 Aralık | Sıradaki durak: beş, altı Aralık. |
+| CTA | 21-22 Kasım'da yerini al · Sınav Paketini Al | Sınav paketini al, tüm denemelere katıl. |
+
+## Sinav3 — LGS 28 Kasım
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | 28 KASIM CUMARTESİ · LGS'ye prova yaptın mı? | LGS'ye prova yaptın mı? |
+| 1 | LGS DENEMESİ · 28 KASIM CUMARTESİ | Yirmi sekiz Kasım Cumartesi... LGS denemesi. |
+| 2 | Ders ders netin — LGS formatı, soru soru analiz, sıralama | LGS formatında, ders ders netlerini gör. Soru soru analiz ve sıralama ekranda. |
+| 3 | Sonraki LGS denemeleri — 12 Aralık, 26 Aralık | Sonra on iki Aralık ve yirmi altı Aralık. |
+| CTA | 28 Kasım'da provaya gel · Sınav Paketini Al | Sınav paketini al, tüm denemelere katıl. |
+
+## Sinav4 — Sınav paketi
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | SINAV PAKETİ · ~~TEK TEK~~ → TEK PAKET · Tüm dönem denemeleri | Tek tek değil... tek paket. |
+| 1 | Paketin içinde — LGS/TYT/AYT formatında deneme, soru soru analiz, sıralama, her hafta düzenli deneme | LGS, TYT, AYT formatında denemeler. Soru soru analiz, sıralama, her hafta yeni deneme. |
+| 2 | Tüm tarihler tek pakette — 21-22 Kas … 26 Ara | Yirmi bir Kasım'dan yirmi altı Aralık'a, tüm tarihler tek pakette. |
+| CTA | Tek paket, tüm denemeler · Sınav Paketini Al | Sınav paketini al, tüm denemelere katıl. |
+
+## Sinav6 — TYT-AYT 5-6 Aralık
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | HAFTA SONU DENEMESİ · CUMARTESİ 5 TYT / PAZAR 6 AYT · ARALIK | Beş, altı Aralık! |
+| 1 | 5-6 Aralık hafta sonu — Hafta sonu yine deneme | Cumartesi TYT, Pazar AYT. Hafta sonu yine deneme var. |
+| 2 | Soru soru analiz | Her soruyu tek tek analiz et, sıralamanı gör. |
+| 3 | Ardından 19-20 Aralık · Arada 12 Aralık LGS | Ardından on dokuz, yirmi Aralık. |
+| CTA | 5-6 Aralık'ta yerini al · Sınav Paketini Al | Sınav paketini al, tüm denemelere katıl. |
+
+## Sinav7 — LGS 12 Aralık
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | CUMARTESİ 12 ARALIK · LGS GÜNÜ damgası | On iki Aralık... LGS günü. |
+| 1 | 90 soru, 6 ders — LGS formatı | LGS formatında doksan soru. Ders ders netin, soru soru analizin hazır. |
+| 2 | Sonraki LGS: 26 Aralık | Sonraki LGS denemesi: yirmi altı Aralık. |
+| CTA | 12 Aralık'ta LGS provası · Sınav Paketini Al | Sınav paketini al, tüm denemelere katıl. |
+
+## Sinav8 — TYT-AYT 19-20 Aralık
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | YIL BİTMEDEN · ~~MOLA~~ → 19-20 ARALIK · TYT ve AYT denemesi | Mola yok: on dokuz, yirmi Aralık. |
+| 1 | Cumartesi + Pazar — 19 Aralık TYT, 20 Aralık AYT | Cumartesi TYT, Pazar AYT. |
+| 2 | Her hafta bir deneme — Aralık takvimi | Aralık takviminde her hafta bir deneme. Soru soru analiz ve sıralama seni bekliyor. |
+| CTA | 19-20 Aralık'ta yerini al · Sınav Paketini Al | Sınav paketini al, tüm denemelere katıl. |
+
+## Sinav9 — LGS 26 Aralık
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | 26 ARALIK CUMARTESİ · Yılı LGS provasıyla kapatır mısın? | Yılı LGS provasıyla kapatır mısın? |
+| 1 | LGS DENEMESİ · 26 ARALIK CUMARTESİ | Yirmi altı Aralık Cumartesi... LGS denemesi. |
+| 2 | Aralık: her hafta — = HER HAFTA DENEME | Aralık boyunca her hafta bir deneme. Son durak: LGS. |
+| CTA | 26 Aralık'ta yılı kapat · Sınav Paketini Al | Sınav paketini al, tüm denemelere katıl. |
+
+## Sinav10 — Aralık deneme takvimi
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | ARALIK · Her hafta bir deneme · ay ızgarası | Aralık'ta her hafta bir deneme. |
+| 1 | Aralık deneme takvimi — 5-6 TYT-AYT · 12 LGS · 19-20 TYT-AYT · 26 LGS | Beş altı Aralık TYT ve AYT. On iki Aralık LGS. On dokuz yirmi Aralık TYT ve AYT. Yirmi altı Aralık LGS. |
+| 2 | Hepsi pakette | Hepsi sınav paketinde, soru soru analizle. |
+| CTA | Aralık'ta her hafta deneme · Sınav Paketini Al | Sınav paketini al, tüm denemelere katıl. |
