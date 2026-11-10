@@ -484,7 +484,7 @@ export const HookQuestion: React.FC<{ kicker?: string; text: string; tone?: Tone
       <Shake hits={[0]}>
         <AbsoluteFill style={{ justifyContent: "center", alignItems: "flex-start", flexDirection: "column", padding: "0 80px 220px" }}>
           {kicker && <Chip tone={tone} delay={-20} style={{ marginBottom: 40 }}>{kicker}</Chip>}
-          <Words text={text} delay={-10} stagger={4} size={124} align="left" tone={tone} lineHeight={1.0} />
+          <Words text={text} delay={-(text.split(/\s+/).length * 4 + 10)} stagger={4} size={124} align="left" tone={tone} lineHeight={1.0} />
           {after && (
             <div style={{ marginTop: 50 }}>
               <Words text={after} delay={52} size={52} weight={500} font="sans" color={C.ice} align="left" stagger={3} />
