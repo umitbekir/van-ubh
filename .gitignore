@@ -1,0 +1,6 @@
+node_modules/
+build/
+out/**/kare/
+out/kare/
+*.raw.mp3
+.DS_Store
