@@ -4,3 +4,4 @@ out/**/kare/
 out/kare/
 *.raw.mp3
 .DS_Store
+out/

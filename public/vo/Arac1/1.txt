@@ -1,0 +1,1 @@
+Ders ders netlerini gir, puanın saniyeler içinde hesaplansın.

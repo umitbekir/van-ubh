@@ -7,8 +7,10 @@ import { ornek } from "./videos/ornek";
 import { ogretmen } from "./videos/ogretmen";
 import { ogrenci } from "./videos/ogrenci";
 import { sinav } from "./videos/sinav";
+import { ek1 } from "./videos/ek1";
+import { ek2 } from "./videos/ek2";
 
-const all: VideoDef[] = [...ornek, ...ogretmen, ...ogrenci, ...sinav];
+const all: VideoDef[] = [...ornek, ...ogretmen, ...ogrenci, ...sinav, ...ek1, ...ek2];
 const byId = Object.fromEntries(all.map((v) => [v.id, v]));
 
 const V: React.FC<{ vid: string; guides: boolean }> = ({ vid, guides }) => {

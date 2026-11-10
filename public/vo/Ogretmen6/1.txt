@@ -1,0 +1,1 @@
+Öne çıkarma paketiyle profilin, arka sıralardan en öne taşınır. Rozetin parlar.
