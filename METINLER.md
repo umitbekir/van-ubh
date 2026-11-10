@@ -13,6 +13,14 @@ Her video 1080×1920, 30 fps, seslendirme ElevenLabs "Derin" sesi. İlk 3 sn kan
 | Ogretmen8 | Soru yazarı ol | 19,8 sn | Çarpan başlık | [videolar/ogretmen/Ogretmen8.mp4](videolar/ogretmen/Ogretmen8.mp4) |
 | Ogretmen9 | Bir öğretmenin günü | 21,5 sn | Soru | [videolar/ogretmen/Ogretmen9.mp4](videolar/ogretmen/Ogretmen9.mp4) |
 | Ogretmen10 | Müfredata bağlı içerik | 17,8 sn | Üstü çizili → yeni | [videolar/ogretmen/Ogretmen10.mp4](videolar/ogretmen/Ogretmen10.mp4) |
+| Ogrenci1 | Pratik: fotoğrafla çözüm | 18,9 sn | Çarpan başlık | [videolar/ogrenci/Ogrenci1.mp4](videolar/ogrenci/Ogrenci1.mp4) |
+| Ogrenci2 | Deneme analizi | 20,7 sn | Soru | [videolar/ogrenci/Ogrenci2.mp4](videolar/ogrenci/Ogrenci2.mp4) |
+| Ogrenci3 | Soru Kampı | 16,2 sn | Sayaç | [videolar/ogrenci/Ogrenci3.mp4](videolar/ogrenci/Ogrenci3.mp4) |
+| Ogrenci4 | Çalış: tek oynatıcı | 20,8 sn | Üstü çizili → yeni | [videolar/ogrenci/Ogrenci4.mp4](videolar/ogrenci/Ogrenci4.mp4) |
+| Ogrenci5 | Planla + Koç | 19,7 sn | Çarpan başlık | [videolar/ogrenci/Ogrenci5.mp4](videolar/ogrenci/Ogrenci5.mp4) |
+| Ogrenci8 | Özel ders talebi | 15,7 sn | Soru | [videolar/ogrenci/Ogrenci8.mp4](videolar/ogrenci/Ogrenci8.mp4) |
+| Ogrenci9 | Canlı ders | 18,4 sn | Sayaç | [videolar/ogrenci/Ogrenci9.mp4](videolar/ogrenci/Ogrenci9.mp4) |
+| Ogrenci10 | Bir öğrencinin haftası | 22,7 sn | Üstü çizili → yeni | [videolar/ogrenci/Ogrenci10.mp4](videolar/ogrenci/Ogrenci10.mp4) |
 | Marka1 | Eğitimde mega dönüşüm (marka manifestosu) | 25,0 sn | Çarpan başlık | [videolar/ek/Marka1.mp4](videolar/ek/Marka1.mp4) |
 | Ogrenci6 | Seviye tespiti | 20,6 sn | Soru | [videolar/ek/Ogrenci6.mp4](videolar/ek/Ogrenci6.mp4) |
 | Ogrenci7 | İlk 3 gün her şey açık | 24,8 sn | Sayaç | [videolar/ek/Ogrenci7.mp4](videolar/ek/Ogrenci7.mp4) |
@@ -153,3 +161,75 @@ Her video 1080×1920, 30 fps, seslendirme ElevenLabs "Derin" sesi. İlk 3 sn kan
 | 1 | 20.000+ müfredat konusu — konu ağacı, Türev › Kurallar ✓ | Yirmi binden fazla müfredat konusu. İçeriğini tam yerine bağla. |
 | 2 | Konuyu çalışanın karşısında — Konuna bağlı içerik | O konuyu çalışan öğrencinin karşısına, senin dersin çıksın. |
 | CTA | İçeriğin doğru öğrenciyi bulsun | İçeriğin doğru öğrenciyi bulsun. Vanoksia'da öğretmen olarak katıl. |
+
+## Ogrenci1 — Pratik: fotoğrafla çözüm
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | PRATİK · YAPAY ZEKÂ · ÇÖZEMEDİN Mİ? FOTOĞRAFINI ÇEK. | Çözemedin mi? Fotoğrafını çek. |
+| 1 | Tara, adım adım gör — Soru algılandı ✓, 3 çözüm adımı | Vanoksia soruyu tarar, çözümü adım adım önüne serer. |
+| 2 | Her doğru bir adım — konuya özel YZ soru seti, 3/10 → 4/10 | Sonra yapay zekâ, o konuya özel soru setini hazırlar. Her doğru, bir adım ileri. |
+| CTA | Hedefine bugün başla · Ücretsiz Kayıt Ol | Hedefine bugün başla. İlk üç gün tüm ücretli içerikler açık. |
+
+## Ogrenci2 — Deneme analizi
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | DENEME ANALİZİ · Netin neden *artmıyor?* · Cevap soru soru analizde saklı. | Netin neden artmıyor? |
+| 1 | Netin ders ders — LGS · TYT · AYT formatında | Denemeni bitir. Netlerini ders ders gör. |
+| 2 | Eksiğin nerede? — 40 soruluk analiz ızgarası | Her soruyu tek tek analiz et. Eksiğin nerede, saniyesinde bil. |
+| 3 | Her denemede yüksel — sıralama (temsilî) | Ve her denemede, sıralamanın yükselişini izle. |
+| CTA | Netini bugün analiz et · Ücretsiz Kayıt Ol | Vanoksia'ya ücretsiz kayıt ol. |
+
+## Ogrenci3 — Soru Kampı
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | SORU KAMPINDA SIRAN · 50. → 1. · Arkadaşlarınla yarış, zirveyi kap | Ellinciden birinciliğe. Soru Kampı'na hoş geldin. |
+| 1 | Paylaş, kampı kur — davet kodu KAMP-7X2 | Davet kodunu paylaş. Arkadaşların kampa katılsın. |
+| 2 | 5.'likten zirveye — canlı soru, liderlik tablosu | Canlı soru çöz, liderlik tablosunda tırman. Zirve senin! |
+| CTA | Kampını bugün kur · Ücretsiz Kayıt Ol | Hemen ücretsiz kayıt ol. |
+
+## Ogrenci4 — Çalış: tek oynatıcı
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | ~~5 UYGULAMA~~ → TEK OYNATICI · Video, doküman, ses, hepsi bir arada | Beş uygulama mı? Hepsi tek oynatıcıda. |
+| 1 | Hepsi tek oynatıcıda — Video / Doküman / Ses / Etkileşimli | Video, doküman, ses, etkileşimli içerik. Tek ekranda. |
+| 2 | Her cümleyi yakala — not + transkript | Not al. Transkriptte her cümleyi yakala. |
+| 3 | %80 yap, konu biter — Konu tamamlandı ✓ | Konu testinde yüzde seksen yap, konu tamamlansın. |
+| CTA | Tek oynatıcıyla bugün başla | Vanoksia'ya ücretsiz kayıt ol. |
+
+## Ogrenci5 — Planla + Koç
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | HEDEFİN BELLİ. YOLUN BELLİ Mİ? | Hedefin belli. Peki yolun belli mi? |
+| 1 | Önce hedefini seç — Çalışma planın hazır ✓ | Hedefini seç. Çalışma planın, hedefine göre çıksın. |
+| 2 | Plan hedefine göre — görevler, haftalık ilerleme | Görevlerini işaretle, ilerlemeni adım adım izle. |
+| 3 | Yanında bir koç var — mesajlaşma, canlı derse kayıt | Koç öğretmeninle yazış, canlı derse katıl. |
+| CTA | Hedefine bugün başla | Hedefine bugün başla. Ücretsiz kayıt ol. |
+
+## Ogrenci8 — Özel ders talebi
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | ÖZEL DERS · Bir konuda mı *takıldın?* · Koçundan özel ders iste. | Bir konuda mı takıldın? |
+| 1 | Konunu yaz, koçunu seç | Zorlandığın konuyu yaz, koç öğretmenini seç. |
+| 2 | Saatini seç, gönder — Talep gönderildi ✓ | Müsait saati seç, talebini gönder. Gerisi koçunda. |
+| CTA | Takıldığın yerde koçun yanında | Vanoksia'ya ücretsiz kayıt ol. |
+
+## Ogrenci9 — Canlı ders
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | CANLI DERSE KALAN SANİYE · 10 → 0 · Canlı ders başlıyor | Geri sayım başladı. Canlı ders seni bekliyor. |
+| 1 | Tek dokunuşla kayıt — Kayıtlısın ✓ | Canlı derse tek dokunuşla kayıt ol. |
+| 2 | Öğretmeninle aynı anda — CANLI yayın | Öğretmeninle aynı anda, aynı derste. |
+| 3 | Takıldığın an sor — sohbet | Aklına takılanı sor. Dersin bir parçası ol. |
+| CTA | Canlı derse bugün katıl | Hemen ücretsiz kayıt ol. |
+
+## Ogrenci10 — Bir öğrencinin haftası
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | ~~DAĞINIK~~ → PLANLI · 7 gün, tek platform | Dağınık çalışmaya son. İşte bir haftan. |
+| Pzt | Dersi izle, not al | Pazartesi: dersi izle, not al. |
+| Salı | Sana özel soru seti | Salı: sana özel soru seti. |
+| Çar | Fotoğrafla çöz | Çarşamba: fotoğrafla çöz. |
+| Per | Konu testi %80 ✓ | Perşembe: konu testi, tamam. |
+| Cmt | Deneme + analiz | Cumartesi: deneme ve analiz. |
+| Paz | Soru Kampı'nda zirve | Pazar: arkadaşlarınla Soru Kampı. |
+| CTA | Senin haftan bugün başlasın | Senin haftan, Vanoksia'da. |
