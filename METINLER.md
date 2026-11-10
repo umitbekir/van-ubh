@@ -4,6 +4,15 @@ Her video 1080×1920, 30 fps, seslendirme ElevenLabs "Derin" sesi. İlk 3 sn kan
 
 | Id | Konu | Süre | Kanca | Dosya |
 |---|---|---|---|---|
+| Ogretmen1 | İçerik Stüdyosu | 22,4 sn | Soru | [videolar/ogretmen/Ogretmen1.mp4](videolar/ogretmen/Ogretmen1.mp4) |
+| Ogretmen2 | Soru Havuzu + Sınav Oluşturucu | 23,0 sn | Üstü çizili → yeni | [videolar/ogretmen/Ogretmen2.mp4](videolar/ogretmen/Ogretmen2.mp4) |
+| Ogretmen3 | Koçluk ve Özel Ders | 20,4 sn | Çarpan başlık | [videolar/ogretmen/Ogretmen3.mp4](videolar/ogretmen/Ogretmen3.mp4) |
+| Ogretmen4 | Canlı Ders + Analitik | 17,8 sn | Soru | [videolar/ogretmen/Ogretmen4.mp4](videolar/ogretmen/Ogretmen4.mp4) |
+| Ogretmen5 | Kazanç Modeli | 23,7 sn | Sayaç | [videolar/ogretmen/Ogretmen5.mp4](videolar/ogretmen/Ogretmen5.mp4) |
+| Ogretmen7 | Ödev/sınav ata, sonuçları gör | 18,4 sn | Sayaç | [videolar/ogretmen/Ogretmen7.mp4](videolar/ogretmen/Ogretmen7.mp4) |
+| Ogretmen8 | Soru yazarı ol | 19,8 sn | Çarpan başlık | [videolar/ogretmen/Ogretmen8.mp4](videolar/ogretmen/Ogretmen8.mp4) |
+| Ogretmen9 | Bir öğretmenin günü | 21,5 sn | Soru | [videolar/ogretmen/Ogretmen9.mp4](videolar/ogretmen/Ogretmen9.mp4) |
+| Ogretmen10 | Müfredata bağlı içerik | 17,8 sn | Üstü çizili → yeni | [videolar/ogretmen/Ogretmen10.mp4](videolar/ogretmen/Ogretmen10.mp4) |
 | Marka1 | Eğitimde mega dönüşüm (marka manifestosu) | 25,0 sn | Çarpan başlık | [videolar/ek/Marka1.mp4](videolar/ek/Marka1.mp4) |
 | Ogrenci6 | Seviye tespiti | 20,6 sn | Soru | [videolar/ek/Ogrenci6.mp4](videolar/ek/Ogrenci6.mp4) |
 | Ogrenci7 | İlk 3 gün her şey açık | 24,8 sn | Sayaç | [videolar/ek/Ogrenci7.mp4](videolar/ek/Ogrenci7.mp4) |
@@ -66,3 +75,81 @@ Her video 1080×1920, 30 fps, seslendirme ElevenLabs "Derin" sesi. İlk 3 sn kan
 | 2 | Sonra paketini seç — Keşif, Uzman, Şampiyon | Sonra Keşif, Uzman ya da Şampiyon. Hedefine uygun paketi seç. |
 | 3 | Ücretsizde bile — 1 dk önizleme, 5 ücretli doküman | Ücretsiz pakette bile, ücretli videoların bir dakikalık önizlemesi ve beş ücretli doküman seni bekliyor. |
 | CTA | İlk 3 gün her şey açık · Ücretsiz Kayıt Ol | Hemen ücretsiz kayıt ol. |
+
+## Ogretmen1 — İçerik Stüdyosu
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | ÖĞRETMENLER İÇİN · Anlattığın ders *bir kez* mi dinleniyor? · Bir kez anlat, defalarca izlensin. | Anlattığın ders... bir kez mi dinleniyor? |
+| 1 | Video, ses, doküman: yükle — 3 içerik hazır ✓ | Videonu, sesini, dokümanını tek stüdyoya yükle. |
+| 2 | Doğru konuya bağla — AYT Matematik › Türev › Türevin Tanımı ✓ | Müfredattaki doğru konuya bağla. Öğrenci, aradığını tam yerinde bulsun. |
+| 3 | Emeğin görünür olsun — izlenme / beğeni (temsilî) | İzlenmeni ve beğenini stüdyo analitiğiyle takip et. |
+| CTA | Bilgin, emeğinin karşılığını bulsun · Öğretmen Olarak Katıl | Bilgin, emeğinin karşılığını bulsun. Vanoksia'da öğretmen olarak katıl. |
+
+## Ogretmen2 — Soru Havuzu + Sınav Oluşturucu
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | ~~3 SAAT~~ → 3 DAKİKA · Deneme hazırlamak artık bu kadar kolay | Üç saat değil... üç dakika. |
+| 1 | Sorunu yaz, onaya gönder — editör, Branş onayı ✓ | Sorunu zengin editörde yaz. Branş onayıyla havuza girsin. |
+| 2 | Filtrele, işaretle — Ders/Konu/Zorluk, 40/40 · 200.000+ onaylı soru | Ders, konu, zorluk seç. Soruları havuzdan hızla işaretle. |
+| 3 | Süre, erişim, yayında — 135 dk, Yayında ✓ | Süreyi ve erişimi ayarla... denemen yayında. |
+| CTA | Denemeni dakikalar içinde hazırla | Denemeni dakikalar içinde hazırla. Vanoksia'da öğretmen olarak katıl. |
+
+## Ogretmen3 — Koçluk ve Özel Ders
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | İLAN PEŞİNDE / KOŞMA. / ÖĞRENCİ / SENİ BULSUN. | İlan peşinde koşma. Öğrenci seni bulsun. |
+| 1 | Takvimini sen yönet — Rezerve ✓ · Ücretini sen belirle · Platform komisyonu sadece %10 | Müsaitlik takvimini aç, ders ücretini belirle. Platform komisyonu sadece yüzde on. |
+| 2 | Ödev ve sınav ata — Atandı ✓ | Koçluk yaptığın öğrencilere ödev ve sınav ata, süreci tek panelden yönet. |
+| CTA | Bilgin, emeğinin karşılığını bulsun | Bilgin, emeğinin karşılığını bulsun. Vanoksia'da öğretmen olarak katıl. |
+
+## Ogretmen4 — Canlı Ders + Analitik
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | CANLI DERS · Sınıfında *kim dinliyor,* kim kaçırdı? | Sınıfında kim dinliyor... kim kaçırdı? |
+| 1 | Kim katıldı, anında gör — CANLI, katılım takibi 42/48 | Canlı dersini planla. Kim katıldı, kim kaçırdı, anbean takip et. |
+| 2 | İzlenme ve beğeni tek ekranda | Stüdyo analitiğiyle izlenmeyi ve beğeniyi gör, dersini veriyle güçlendir. |
+| CTA | Sınıfını veriyle yönet | Sınıfını veriyle yönet. Vanoksia'da öğretmen olarak katıl. |
+
+## Ogretmen5 — Kazanç Modeli
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | ÖĞRETMEN KAZANCI · %65 · Abonelik gelirinin %65'i öğretmenlere | Abonelik gelirinin yüzde altmış beşi öğretmenlere. |
+| 1 | Tahsilatın %65'i havuza — %65 öğretmen havuzu / %35 platform | Tahsilatın yüzde altmış beşi, içerik üreticilerinin havuzuna ayrılır. |
+| 2 | Yeni → Kıdemli → Süper Hoca | Yeni, Kıdemli, Süper Hoca. Seviyen yükseldikçe çarpanın büyür. |
+| 3 | 500 ₺ olunca çek — Çekim talebi ✓ | Bakiyen beş yüz liraya ulaşınca çekim talebini oluştur. |
+| CTA | Bilgin, emeğinin karşılığını bulsun | Bilgin, emeğinin karşılığını bulsun. Öğretmen olarak katıl. |
+
+## Ogretmen7 — Ödev/sınav ata, sonuçları gör
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | KOÇLUK PANELİ · 12 · öğrenci, tek ekranda tüm sonuçlar | On iki öğrenci. Tek ekran. Tüm sonuçlar. |
+| 1 | Her öğrencine ata — Atandı ✓ | Koçluk panelinden her öğrencine ödev ve sınav ata. |
+| 2 | Kim nerede, tek bakışta — öğrenci başarı çubukları, Destek gerek | Sonuçlar geldikçe öğrenci bazında başarıyı gör. Kimin desteğe ihtiyacı var, hemen fark et. |
+| CTA | Öğrencini veriyle yönlendir | Öğrencini veriyle yönlendir. Vanoksia'da öğretmen olarak katıl. |
+
+## Ogretmen8 — Soru yazarı ol
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | SORU YAZ. / ONAYLANSIN. / ÇÖZÜLSÜN. · Sen yaz, öğrenci çözsün | Soru yaz. Onaylansın. Çözülsün. |
+| 1 | Sorunu formülüyle yaz — Onaya gönderildi | Sorunu zengin metin editöründe, formülüyle hazırla. |
+| 2 | Onaydan geç, yayında ol — Branş onaylı ✓ · YAYINDA | Branş onayından geçen soru, yayına çıkar. |
+| 3 | Öğrenciler çözüyor — çözülme sayacı (temsilî) | Ve öğrenciler, senin sorunla çalışmaya başlar. |
+| CTA | Bilgini soruya dönüştür | Bilgini soruya dönüştür. Vanoksia'da öğretmen olarak katıl. |
+
+## Ogretmen9 — Bir öğretmenin günü
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | BİR GÜN, TEK PLATFORM · Bir öğretmenin günü nasıl geçer? | Bir öğretmenin günü nasıl geçer? |
+| 08:00 | Dersini stüdyoya yükle | Sabah, dersini stüdyoya yükle. |
+| 12:30 | Koçluk ve özel ders — Komisyon sadece %10 | Öğlen, koçluk öğrencine ve özel derse zaman ayır. |
+| 19:00 | Canlı derste buluş | Akşam, canlı derste sınıfınla buluş. |
+| 23:00 | Analitiğe bak, yarını planla | Gece, analitiğe bak, yarını planla. |
+| CTA | Tüm günün tek platformda | Tüm günün tek platformda. Vanoksia'da öğretmen olarak katıl. |
+
+## Ogretmen10 — Müfredata bağlı içerik
+| Sahne | Ekranda | Seslendirme |
+|---|---|---|
+| Kanca | İÇERİĞİN ~~KAYBOLUR~~ → BULUNUR · Doğru konuya bağla, doğru öğrenciye ulaşsın | Doğru konuya bağlı içerik kaybolmaz... bulunur. |
+| 1 | 20.000+ müfredat konusu — konu ağacı, Türev › Kurallar ✓ | Yirmi binden fazla müfredat konusu. İçeriğini tam yerine bağla. |
+| 2 | Konuyu çalışanın karşısında — Konuna bağlı içerik | O konuyu çalışan öğrencinin karşısına, senin dersin çıksın. |
+| CTA | İçeriğin doğru öğrenciyi bulsun | İçeriğin doğru öğrenciyi bulsun. Vanoksia'da öğretmen olarak katıl. |
